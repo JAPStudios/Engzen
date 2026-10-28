@@ -1,0 +1,10 @@
+Category,Line item,Planning estimate USD,Assumption / validation needed
+Personnel,Core engineering and integration,36000,"Placeholder: 600 hours at $60/hour; replace with actual labor plan and market rates"
+Personnel,Game sample and asset workflow,12000,"Placeholder: 200 hours at $60/hour; scope and rate require validation"
+Quality,Testing and accessibility review,4000,"Obtain quotes; include hardware coverage and accessibility testing"
+Infrastructure,Build hosting and development services,1800,"Six-month planning allowance; verify actual usage and free tiers"
+Hardware,Test equipment and peripherals,2500,"Buy only where current equipment cannot cover the test matrix"
+Legal and accounting,Entity structure IP and grant review,5000,"Obtain professional quote; actual needs depend on legal form"
+Operations,Documentation and user research,2500,"Participant recruitment, documentation, and feedback processing"
+Contingency,Contingency reserve,6380,"Approximately 10% of subtotal; confirm funder allowability"
+TOTAL,Prototype planning total,70180,"Illustrative estimate only; not a grant quote or commitment"
